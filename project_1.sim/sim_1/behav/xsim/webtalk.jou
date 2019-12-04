@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Nov 13 11:00:00 2019
+# Process ID: 2211
+# Current directory: /home/risikesh/Documents/Research/basys3-demos/UART/UART_BASYS3/UART_BASYS3.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/risikesh/Documents/Research/basys3-demos/UART/UART_BASYS3/UART_BASYS3.sim/sim_1/behav/xsim/xsim.dir/uart_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/risikesh/Documents/Research/basys3-demos/UART/UART_BASYS3/UART_BASYS3.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/risikesh/Documents/Research/basys3-demos/UART/UART_BASYS3/UART_BASYS3.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/risikesh/Documents/Research/basys3-demos/UART/UART_BASYS3/UART_BASYS3.sim/sim_1/behav/xsim/xsim.dir/uart_tb_behav/webtalk/xsim_webtalk.tcl -notrace
